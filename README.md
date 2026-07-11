@@ -29,7 +29,7 @@ Kita pakai kombinasi TALL/VILT Stack biar performanya kenceng dan gampang dikemb
 *   **Admin Panel:** Filament v3 (keren banget buat bikin dashboard cepet)
 *   **Database:** PostgreSQL (kita hosting di **Supabase**)
 *   **Styling:** Tailwind CSS, Lucide Icons
-*   **AI & Ticker:** Kita pakai simulasi *workflow* (n8n + Gemini AI) dan mock data ticker BI/Kemendag biar aman pas demo presentasi langsung.
+*   **AI & Ticker:** Kita pakai simulasi *workflow* (n8n + Gemini AI) dan mock data ticker BI/Kemendag
 
 ---
 
