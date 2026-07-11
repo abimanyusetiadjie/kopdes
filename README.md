@@ -76,7 +76,7 @@ Terus, buka file `.env` dan masukin kredensial **Supabase** kita di bagian ini:
    DB_DATABASE=postgres
    DB_USERNAME=postgres.qwmzjxrdgccjwxpvhlvk
    DB_PASSWORD=TrollPredict12
-DB_PREFIX=
+   DB_PREFIX=TrollPredict
 ```
 
 ### 4. Generate Key & Setup Storage
