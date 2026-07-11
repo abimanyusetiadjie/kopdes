@@ -109,6 +109,7 @@ php artisan serve
 Sekarang tinggal buka di browser:
 *   **Halaman Depan:** `http://127.0.0.1:8000`
 *   **Halaman Admin:** `http://127.0.0.1:8000/admin` *(login pakai akun demo yang udah kita siapin ya).*
+*   Demo: admin@desahub.go.id / password *
 
 ---
 *Dibuat penuh semangat buat memajukan petani Indonesia!* 👨‍🌾👩‍🌾
